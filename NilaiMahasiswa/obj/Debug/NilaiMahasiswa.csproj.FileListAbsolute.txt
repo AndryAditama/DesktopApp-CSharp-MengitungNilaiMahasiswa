@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.FormNilaiMahasiswa.resources
